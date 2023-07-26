@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ali-fereidooni
 - 👀 I’m interested in computer, cycling and nature.
 - 🌱 I’m currently learning django
--     I have experience in python, javascript and datebases.
+- 💻 I have experience in python, javascript and datebases.
 - 📫 you can reach me on email.
 
 <!---
