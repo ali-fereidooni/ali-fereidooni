@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ali-fereidooni
-- 👀 I’m interested in computer, cycling and nature.
-- 🌱 I’m currently learning django
-- 💻 I have experience in python, javascript and datebases.
-- 📫 you can reach me on email.
+- 👀 I’m interested in computer, Data Science & AI.
+- 🌱 I’m currently learning ML.
+- 💻 I have experience in software development.
+- 📫 you can reach me on: ali.feridooni.a@gmail.com
 
 <!---
 ali-fereidooni/ali-fereidooni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
