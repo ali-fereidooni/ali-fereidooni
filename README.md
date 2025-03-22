@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alef</h1>
-<h3 align="center">Django developer IT lover</h3>
+<h3 align="center">Django developer, IT lover</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ali-fereidooni&label=Profile%20views&color=0e75b6&style=flat" alt="ali-fereidooni" /> </p>
 
