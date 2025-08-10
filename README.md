@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ali-fereidooni" alt="ali-fereidooni" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/amirali_tk" target="blank"><img src="https://img.shields.io/twitter/follow/amirali_tk?logo=twitter&style=for-the-badge" alt="amirali_tk" /></a> </p>
+
 
 - 🔭 I’m currently working on **Bet forward**
 
