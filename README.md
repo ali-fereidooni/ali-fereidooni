@@ -5,6 +5,7 @@
 I build backend web apps with Python and Django, and I like the infrastructure side too: Linux servers, Nginx, Docker, and network design.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
@@ -21,12 +22,12 @@ I build backend web apps with Python and Django, and I like the infrastructure s
 
 - 🔭 Working on **Bet Forward**
 - 🌱 Learning **CCNA, CCNP** and **machine learning**
-- 💬 Ask me about **Django, Linux hosting, networking**
 
 ## Projects
 
 | Project | What it is |
 | --- | --- |
+| [netarget](https://github.com/ali-fereidooni/netarget) | Domain diagnostics tool written in Go. Enter a domain and it checks it layer by layer (registration, name servers, DNS zone, reachability, website load), explains the root cause when a layer fails, and gives a prioritized fix list. Web UI (EN/FA), JSON API, CLI, and Docker master/agent deployment. |
 | [Django-online-shop](https://github.com/ali-fereidooni/Django-online-shop) | Online shop built with Django: user authorization, OTP login, password reset, storage, queue control and caching. Dockerized (`docker-compose up -d`) and served behind Nginx. |
 | [VLSM-tool](https://github.com/ali-fereidooni/VLSM-tool) | Python tool for VLSM subnetting and supernetting of IP ranges. |
 | [bet-dynamic-QA-](https://github.com/ali-fereidooni/bet-dynamic-QA-) | Django project related to Bet Forward. |
